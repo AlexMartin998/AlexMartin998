@@ -8,6 +8,15 @@ style="max-width: 100%;"></a> -->
 </h1>
 </div>
 
+<div>
+<h2>About Me</h2>
+
+<!-- ![TypeScript](./assets/coding.png) -->
+<img src = "./assets/coding.png" align="right" width="333">
+<p>I am an environmental biotechnologist engineer interested in the world of programming since I was a student. So, in a self-taught way I learned Python and Pandas to perform statistical analysis to a large volume of hydrometeorological data for hydrological and hydraulic studies to areas of interest.  So, since that introduction to programming I have not been able to stop until I managed to work in the context of a FullStack Developer with cutting-edge technologies and develop a great interest in clean architectures and cloud computing.</p>
+
+</div>
+
 <h2>Technologies <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px></h2>
 <br/>
 
@@ -18,6 +27,7 @@ style="max-width: 100%;"></a> -->
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Express.JS](https://img.shields.io/badge/EXPRESS.JS-828282?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)](#)
 </br> -->
 
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](#)
@@ -27,8 +37,8 @@ style="max-width: 100%;"></a> -->
 </br>
 [![Nest.js](https://img.shields.io/badge/NEST.JS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)](#)
 [![Node.JS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
-[![Express.JS](https://img.shields.io/badge/EXPRESS.JS-828282?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)](#)
 [![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-92d557?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)](#)
+[![Docker](https://img.shields.io/badge/DOCKER-23b7ea?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](#)
 </br>
 [![React](https://img.shields.io/badge/REACT.JS-5fd9fb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 [![Next](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)](#)
@@ -44,25 +54,9 @@ style="max-width: 100%;"></a> -->
 [![Debian](https://img.shields.io/badge/DEBIAN-a80030?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)](#)
 [![Windows](https://img.shields.io/badge/WINDOWS-1c2757?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#)
 </br>
+</br>
 And some more...
-
-<div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="120"/> -->
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="120"/>
-  
-  <div id="badges">
-  <br/>
-  <a href="https://www.linkedin.com/in/adrian-changalombo-iba">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-</div>
+</br>
 
 ## Github stats
 
@@ -94,4 +88,27 @@ And some more...
 <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </i>
 </div>
 
+<br/>
+<br/>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexMartin998.AlexMartin998&left_color=purple&right_color=blue)
+
+
+
+<!-- <div id="header" align="center">
+  <!-- <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="120"/> ->
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="120"/>
+  
+  <div id="badges">
+  <br/>
+  <a href="https://www.linkedin.com/in/adrian-changalombo-iba">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div> -->
