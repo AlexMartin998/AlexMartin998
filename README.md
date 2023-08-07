@@ -75,9 +75,10 @@ And some more...
 </p> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMartin998&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center">
+<!-- *** activity *** -->
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexMartin998&theme=react-dark">
-</p>
+</p> -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexMartin998&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br/>
@@ -93,11 +94,12 @@ And some more...
 
 
 
-<div align="end">
+<!-- *** visitors *** -->
+<!-- <div align="end">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexMartin998.AlexMartin998&left_color=purple&right_color=blue)
 
-</div>
+</div> -->
 
 
 
