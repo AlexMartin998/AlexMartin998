@@ -58,14 +58,14 @@ style="max-width: 100%;"></a> -->
 And some more...
 </br>
 
-## Github stats
+<!-- ## Github stats
 
 <div align="center">
 <p ><img src="https://github-readme-stats.vercel.app/api?username=AlexMartin998&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
 </p>
 <p >
 
-</div>
+</div> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexMartin998&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
 </p> -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMartin998&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -81,7 +81,7 @@ And some more...
 </p> -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexMartin998&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<br/>
+<!-- <br/>
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMartin998&layout=compact&langs_count=6&theme=dark">
@@ -91,7 +91,7 @@ And some more...
 
 <br/>
 <br/>
-
+ -->
 
 
 <!-- *** visitors *** -->
