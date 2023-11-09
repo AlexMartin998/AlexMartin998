@@ -50,6 +50,9 @@ style="max-width: 100%;"></a> -->
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)](#)
 </br>
+[![Flutter](https://img.shields.io/badge/Flutter-007396?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)](#)
+[![Riverpod](https://img.shields.io/badge/Riverpod-23b7ea?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)](#)
+</br>
 [![Arch](https://img.shields.io/badge/ARCH_LINUX-0f94d2?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=101010)](#)
 [![Debian](https://img.shields.io/badge/DEBIAN-a80030?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)](#)
 [![Windows](https://img.shields.io/badge/WINDOWS-1c2757?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](#)
